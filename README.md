@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @RaulSMS
-- 👀 I’m interested in Automotive C, Matlab, Autosar. And AA, python and ML
-- 🌱 I’m currently learning python and ML
-- 💞️ I’m looking to collaborate on any open source related with Python
+- 👀 I’m interested in IOT, Neural Networks, AI, AUTOSAR.
+- 🌱 I’m currently learning ReactNative and cloud.
+- I play piano and guitar :) 
 
 <!---
 RaulSMS/RaulSMS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
